@@ -1,9 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "About01"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About02"
+    url: https://emptycupconsulting.github.io/about/
+  - title: "Services"
+    url: https://emptycupconsulting.github.io/services/
+  - title: "Sherpa"
+    url: https://emptycupconsulting.github.io/sherpa/
+  - title: "Training"
+    url: https://emptycupconsulting.github.io/training/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

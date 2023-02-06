@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: https://emptycupconsulting.github.io/about/
+    url: /about/
   - title: "Services"
-    url: https://emptycupconsulting.github.io/services/
+    url: /services/
   - title: "Sherpa"
-    url: https://emptycupconsulting.github.io/sherpa/
+    url: /sherpa/
   - title: "Training"
-    url: https://emptycupconsulting.github.io/training/
+    url: /training/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

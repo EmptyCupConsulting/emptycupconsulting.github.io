@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "About01"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About02"
+  - title: "About"
     url: https://emptycupconsulting.github.io/about/
   - title: "Services"
     url: https://emptycupconsulting.github.io/services/

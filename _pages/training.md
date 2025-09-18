@@ -1,22 +1,41 @@
 ---
 permalink: /training/
 title: "Training"
+layout: single
 ---
 
-We offer a variety of both on-demand and live delivery trainings that can be tailored to your businesss and technology needs. training can be deliovered either remotely or in person (when circumstances permit).
+# Training  
 
-Our training is focused on real world and best practices and covers topics with an unparalleled level of breadth and depth. With plenty of hands on opportunities to gain experience and confidence.
+We offer a variety of **on-demand** and **live training programs** tailored to your business and technology needs. Training can be delivered remotely or in person (when circumstances permit).  
 
-### Sample Topics
-- Azure Data Factory
-- Azure Databricks
-- Azure Synapse Analytics
-- Azure Fundamentals
-- Modern Data architecture
-- Cosmos DB
-- DevOps
-### Get Started
+Our sessions are focused on **real-world best practices** — not just theory. Every course includes **hands-on opportunities** so your team gains both experience and confidence.  
 
-Find out if the [Training Offerings](https://calendly.com/jjhconsulting/presales-call "Training Offerings Introductory Call")  are right for you
+---
 
-Schedule a [Custom Training Delivery](https://calendly.com/jjhconsulting/presales-call "Training Delivery Scheduling")
+## Why Train With Us?  
+- **Customized Content**: We adapt material to your environment and goals.  
+- **Practical Focus**: Learn the tools and approaches you’ll actually use.  
+- **Expert Instructors**: Delivered by practitioners who build these solutions every day.  
+
+---
+
+## Sample Topics  
+
+- **Azure Data Factory (ADF)** – data integration and orchestration patterns  
+- **Azure Databricks** – data engineering, ML pipelines, and Spark fundamentals  
+- **Microsoft Fabric** – unified analytics platform: lakehouses, pipelines, and real-time intelligence  
+- **Azure Synapse Analytics** – SQL pools, serverless, and hybrid analytics  
+- **Snowflake** – modern cloud data warehouse architecture and optimization  
+- **dbt (Data Build Tool)** – transformation at scale with analytics engineering best practices  
+- **Azure Fundamentals** – cloud concepts, cost management, and security basics  
+- **Modern Data Architecture** – designing scalable, cloud-native data platforms  
+- **Cosmos DB** – distributed NoSQL fundamentals and integration patterns  
+- **DevOps for Data** – CI/CD pipelines, version control, and environment management  
+
+---
+
+## Get Started  
+
+Ready to upskill your team?  
+
+- Explore options in an intro call: [Training O]()

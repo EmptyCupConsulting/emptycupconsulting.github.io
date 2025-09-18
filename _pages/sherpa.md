@@ -1,21 +1,41 @@
 ---
 permalink: /sherpa/
 title: "Sherpa Services"
+layout: single
 ---
 
-Sherpa services can be extremely tactical in nature with a clearly defined problem and solution or more strategic in nature with the outcome being an architecture, strategy or roadmap
+# Sherpa Services  
 
-We offer the following rates for Sherpa Services:
+Sometimes you just need a trusted guide — someone who’s been there before, can see the trail ahead, and knows how to help you avoid the pitfalls. That’s where **Sherpa Services** come in.  
 
-$250 per hour plus T&E
+Whether you need **tactical problem-solving** (a specific issue with a tool, workflow, or platform) or **strategic guidance** (an architecture review, roadmap, or data strategy), Sherpa Services give you direct access to expert support on your terms.  
 
+---
 
-Sherpa services are offered on a best effort basis with a 24hr response time.
-The money is non-refundable, but satisfaction is guaranteed. {: .notice}
+## What You Get  
 
+- **Rapid Help**: A focused session to address your immediate challenge or opportunity.  
+- **Strategic Insight**: Broader guidance to shape your long-term architecture, data, and AI strategy.  
+- **Hands-On Coaching**: Learn as we solve the problem together — skills transfer is built in.  
 
-### Get Started
+---
 
-Find out if the [Sherpa Session Introduction Call](https://calendly.com/jjhconsulting/presales-call "Presales Intro Call") is right for your problem
+## Rates & Terms  
 
-Schedule a 90 Minute [Sherpa Session](https://calendly.com/jjhconsulting/sherpa-session "Sherpa Session Signup")
+- **$250 per hour** (plus T&E if needed)  
+- **Best-effort availability** with a **24-hour response time**  
+- Non-refundable, but backed by a **satisfaction guarantee** {: .notice}  
+
+---
+
+## Get Started  
+
+Ready to see if Sherpa Services are the right fit for you?  
+
+- Book a free [Sherpa Session Introduction Call](#) to discuss your needs.  
+- Jump straight in and schedule a **90-minute working session**: [Book a Sherpa Session](#)  
+
+---
+
+> Think of Sherpa Services as having an experienced guide in your corner — ready when you need them most.  
+

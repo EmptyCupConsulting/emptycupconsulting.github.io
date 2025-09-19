@@ -1,0 +1,54 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Jekyll: serve",
+      "type": "shell",
+      "command": "make serve",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: build",
+      "type": "shell",
+      "command": "make build",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: clean",
+      "type": "shell",
+      "command": "make clean",
+      "group": "none",
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: update gems",
+      "type": "shell",
+      "command": "make update",
+      "group": "none",
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: stop",
+      "type": "shell",
+      "command": "bash -lc 'pkill -f \"jekyll serve\" || true; for p in 4000 35729; do if lsof -t -i:$$p >/dev/null 2>&1; then kill -9 $(lsof -t -i:$$p); fi; done'",
+      "group": "none",
+      "problemMatcher": []
+    },
+    {
+      "label": "Maintenance: ON (fallback index.html)",
+      "type": "shell",
+      "command": "make maintenance_on",
+      "group": "none",
+      "problemMatcher": []
+    },
+    {
+      "label": "Maintenance: OFF (restore Jekyll)",
+      "type": "shell",
+      "command": "make maintenance_off",
+      "group": "none",
+      "problemMatcher": []
+    }
+  ]
+}

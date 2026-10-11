@@ -1,23 +1,27 @@
 ---
 permalink: /
-title: "Empty Cup Consulting | Data & AI Consulting"
+title: "Practical Data & AI Consulting"
+excerpt: "Focused data governance, AI workflow modernization, and dimensional modeling assessments, plus hands-on workshops and training for growing teams."
 classes: wide
 layout: single
 ---
 
-# Welcome to Empty Cup Consulting LLC  
+# Practical Data & AI Consulting  
 
-**Practical, high-quality solutions for your data and AI journey.**  
+**Clear answers. Focused engagements. Data solutions your team can maintain.**  
 
-We help organizations unlock the full potential of their data through modern architectures, scalable platforms, and hands-on expertise. Whether you need a trusted guide for strategy or tactical help solving a tough problem, we’re here to get it done.  
+Empty Cup Consulting helps IT and data leaders make progress without committing to a six-month discovery project. Start with a focused 2–4-week assessment in data governance, AI and workflow modernization, or dimensional modeling. Then put the findings to work with practical architecture guidance, implementation support, and team training.  
 
 👉 [Schedule an Introduction Call](https://calendly.com/jjhconsulting/presales-call "Book a Call")  
 
 ---
 
-## 🚀 Our Services  
+## How We Help  
 
-We specialize in guiding businesses through the modern data landscape with tailored services:  
+Choose a focused starting point or bring us a specific technical challenge:  
+
+- **Focused Assessments (2–4 Weeks)**  
+  Identify gaps, prioritize improvements, and leave with an actionable plan for data governance, AI workflows, or dimensional modeling.
 
 - **Sherpa Services (Coaching & Mentoring)**  
   Direct access to an experienced guide — from tactical troubleshooting to strategic roadmaps.  
@@ -25,7 +29,7 @@ We specialize in guiding businesses through the modern data landscape with tailo
 - **Training**  
   Hands-on courses in Azure, Databricks, Snowflake, dbt, Microsoft Fabric, and more.  
 
-- **Architectural Design Sessions**  
+- **Architecture Design Sessions**  
   Collaborative workshops to align business goals with technical solutions.  
 
 - **Modern Data Jumpstart**  
@@ -46,9 +50,9 @@ We believe the best solutions start with listening. The *Empty Cup mindset* mean
 With decades of experience in the data platform space, we bring:  
 
 - Deep expertise in **Azure Data Factory, Microsoft Fabric, Synapse, Databricks, Snowflake, and Cosmos DB**  
-- Modern cloud data warehousing with **Fabric** **Snowflake** **Databricks** 
-- Transformation and analytics with **dbt**  **pyspark** **tsql**
-- Proven methods in **Dimensional Modeling, DataOps, architecture, and automation**  
+- Cloud data warehousing with **Microsoft Fabric, Snowflake, and Databricks** 
+- Data transformation with **dbt, PySpark, and T-SQL**
+- Proven methods in **dimensional modeling, DataOps, architecture, and automation**  
 
 Founder **Jason Horner** is a Microsoft Certified Master (MCM), a six-time Microsoft MVP, and a recognized community speaker and trainer.  
 

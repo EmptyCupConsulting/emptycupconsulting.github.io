@@ -1,14 +1,15 @@
 ---
 permalink: /training/
-title: "Training"
+title: "Hands-On Data & AI Training"
+excerpt: "Practical onsite and remote workshops for Microsoft Fabric, Azure, Snowflake, Databricks, dbt, data architecture, and DataOps teams."
 layout: single
 ---
 
 # Training  
 
-We offer a variety of **on-demand** and **live training programs** tailored to your business and technology needs. Training can be delivered remotely or in person (when circumstances permit).  
+We deliver **onsite and remote training and workshops** tailored to your team's technology, experience, and business goals. Sessions can focus on a specific platform, an architecture decision, or the skills needed to support a new implementation.  
 
-Our sessions are focused on **real-world best practices** — not just theory. Every course includes **hands-on opportunities** so your team gains both experience and confidence.  
+Training emphasizes practical exercises, real-world tradeoffs, and techniques your team can apply immediately. We agree on learning objectives and prerequisites before the session.  
 
 ---
 
@@ -38,4 +39,4 @@ Our sessions are focused on **real-world best practices** — not just theory. E
 
 Ready to upskill your team?  
 
-- Explore options in an intro call: [Training O]()
+[Schedule an introduction call](https://calendly.com/jjhconsulting/presales-call) to discuss your team, preferred delivery format, and learning goals.

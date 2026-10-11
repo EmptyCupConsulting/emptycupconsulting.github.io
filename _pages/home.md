@@ -2,6 +2,7 @@
 permalink: /home/
 title: "Home"
 canonical_url: https://emptycupconsulting.com/
+sitemap: false
 classes: wide
 layout: single
 ---

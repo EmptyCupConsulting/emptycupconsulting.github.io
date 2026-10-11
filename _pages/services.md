@@ -8,6 +8,10 @@ permalink: /services/
 
 At **Empty Cup Consulting**, we help organizations accelerate their data and AI journey with practical, hands-on expertise. Our services are designed to meet you where you are and guide you toward measurable success.  
 
+## Focused Assessments
+
+Need clarity before committing to a larger initiative? Our [Data Governance Assessment](/services/data-governance-assessment/) is a scoped 2–4-week engagement focused on ownership, data quality, business definitions, and a prioritized action plan. Additional assessment offerings are in development.
+
 ## Sherpa Services (Coaching & Mentoring)  
 Think of us as your guide on the data and AI trail. We provide one-on-one or team-based coaching to help you build skills, avoid pitfalls, and stay on course with your strategy.  
 

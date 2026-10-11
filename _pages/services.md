@@ -1,6 +1,6 @@
 ---
 title: "Data & AI Consulting Services"
-excerpt: "Explore 2–4-week data governance, AI workflow, and dimensional modeling assessments, architecture workshops, implementation guidance, and team training."
+excerpt: "Explore 2–4-week data governance, AI workflow, and dimensional modeling assessments, fractional data engineering, architecture workshops, implementation guidance, and team training."
 layout: single
 permalink: /services/
 ---
@@ -16,6 +16,10 @@ Get a clear picture of what is working, what is getting in the way, and what to 
 ## Focused Assessments
 
 Need clarity before committing to a larger initiative? Our [Data Governance Assessment](/services/data-governance-assessment/) is a scoped 2–4-week engagement focused on ownership, data quality, business definitions, and a prioritized action plan. Additional assessment offerings are in development.
+
+## [Fractional Data Engineering](/services/fractional-data-engineering/)
+
+Get experienced data engineering capacity through fixed-fee, three-week sprints. We plan work across a rolling 12-week product increment, but you commit only one sprint at a time. Choose a capacity tier that fits your backlog, whether you need help with pipelines, data quality, DataOps, or platform modernization. [Explore fractional data engineering services](/services/fractional-data-engineering/).
 
 ## Sherpa Services (Coaching & Mentoring)  
 Think of us as your guide on the data and AI trail. We provide one-on-one or team-based coaching to help you build skills, avoid pitfalls, and stay on course with your strategy.  

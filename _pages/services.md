@@ -1,28 +1,33 @@
 ---
-title: "Services"
+title: "Data & AI Consulting Services"
+excerpt: "Explore 2–4-week data governance, AI workflow, and dimensional modeling assessments, architecture workshops, implementation guidance, and team training."
 layout: single
 permalink: /services/
 ---
 
-# Service Offerings  
+# Data & AI Consulting Services  
 
-At **Empty Cup Consulting**, we help organizations accelerate their data and AI journey with practical, hands-on expertise. Our services are designed to meet you where you are and guide you toward measurable success.  
+At **Empty Cup Consulting**, we help IT and data leaders turn complex data and AI challenges into manageable next steps. Start with a focused assessment, a hands-on workshop, or direct help with an existing platform.  
+
+## Focused Assessments (2–4 Weeks)
+
+Get a clear picture of what is working, what is getting in the way, and what to do next. Common assessment areas include **data governance**, **AI and workflow modernization**, and **dimensional modeling**. Deliverables are scoped around your environment and decisions—not a generic slide deck.
 
 ## Sherpa Services (Coaching & Mentoring)  
 Think of us as your guide on the data and AI trail. We provide one-on-one or team-based coaching to help you build skills, avoid pitfalls, and stay on course with your strategy.  
 
-## Training  
+## Onsite and Remote Training  
 Customized training sessions that give your team the knowledge and confidence to use modern data and AI tools effectively. Hands-on, real-world examples — no fluff.  
 
-## Architectural Design Sessions  
+## Architecture Design Sessions  
 Collaborative workshops where we align business goals with technical architecture. You’ll leave with a clear roadmap, recommended patterns, and best practices for your specific environment.  
 
 ## Modern Data Jumpstart  
-A fast-track engagement to help you implement a modern data platform quickly and effectively. Perfect for teams that need momentum, not just ideas.  
+A focused engagement to move a modern data platform initiative forward with architecture guidance and practical implementation support. We define scope and outcomes before work begins.  
 
 ---
 
 ## Get Started  
 Curious how we can help? Let’s talk.  
 
-👉 [Schedule an Introduction Call](#) to learn more about our service offerings and how we can support your goals.  
+[Schedule an introduction call](https://calendly.com/jjhconsulting/presales-call) to discuss the problem, expected outcomes, and whether a short engagement is the right fit.  

@@ -1,0 +1,63 @@
+name: Validate Jekyll site
+
+on:
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: false
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --destination _site
+
+      - name: Validate generated pages and SEO artifacts
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          import xml.etree.ElementTree as ET
+
+          site = Path("_site")
+          home = site / "index.html"
+          assert home.is_file(), "Missing generated homepage"
+          html = home.read_text(encoding="utf-8")
+          assert re.search(r"<h1\\b[^>]*>.*?Empty Cup|<h1\\b[^>]*>.*?Data", html, re.I | re.S), "Homepage H1 missing or not rendered"
+          assert "<strong>" in html or "<p>" in html, "Homepage Markdown appears unrendered"
+          assert re.search(r'<link\\b[^>]*rel=["\\\']canonical["\\\']', html, re.I), "Missing canonical link on homepage"
+          for page in ("about", "services", "training", "sherpa"):
+              path = site / page / "index.html"
+              assert path.is_file(), f"Missing generated page: /{page}/"
+              content = path.read_text(encoding="utf-8")
+              assert "<title>" in content, f"Missing title on /{page}/"
+          robots = site / "robots.txt"
+          assert robots.is_file() and "https://emptycupconsulting.com/sitemap.xml" in robots.read_text(), "Missing sitemap directive in robots.txt"
+          sitemap = site / "sitemap.xml"
+          assert sitemap.is_file(), "Missing sitemap.xml"
+          root = ET.parse(sitemap).getroot()
+          urls = [node.text for node in root.iter() if node.tag.endswith("loc") and node.text]
+          assert "https://emptycupconsulting.com/" in urls, "Homepage absent from sitemap"
+          assert not any("/home/" in url for url in urls), "Legacy /home/ must not be in sitemap"
+          assert all(url.startswith("https://emptycupconsulting.com/") for url in urls), "Unexpected domain in sitemap"
+          print(f"Validated homepage, service pages, robots.txt, and {len(urls)} sitemap URLs")
+          PY

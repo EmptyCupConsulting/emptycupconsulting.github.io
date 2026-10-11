@@ -1,11 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Empty Cup Consulting"
+excerpt: "Meet Jason Horner and learn how Empty Cup Consulting helps teams solve practical data and AI challenges through focused assessments, architecture, and training."
 classes: wide
 layout: single
 ---
-
-![Empty Cup Consulting Placeholder Image](#)  
 
 > “In the beginner’s mind there are many possibilities, but in the expert’s there are few.”  
 > — Shunryu Suzuki  
@@ -14,13 +13,13 @@ layout: single
 
 # About Empty Cup Consulting LLC  
 
-**Empty Cup Consulting LLC** is a boutique consulting firm focused on building practical, high-quality solutions to real-world business problems. We bring deep technical expertise with a **no-nonsense, get-it-done attitude** — always at fair and transparent rates.  
+**Empty Cup Consulting LLC** is a boutique consulting firm focused on building practical, high-quality solutions to real-world business problems. We bring deep technical expertise and a **no-nonsense, get-it-done attitude**, with fair, transparent rates.  
 
 ---
 
 ## 💡 The Power of an "Empty Cup" Mindset  
 
-The phrase *empty cup* is a powerful business concept that promotes an open and humble mindset. It reminds us to approach challenges and opportunities with a willingness to let go of preconceived notions, listen deeply, and learn from others.  
+The phrase *empty cup* is a powerful business concept that promotes an open, humble mindset. It reminds us to approach challenges and opportunities with a willingness to let go of preconceived notions, listen carefully, and learn from others.  
 
 ### Benefits of the "Empty Cup" Approach  
 - Absorbs information objectively  
@@ -28,13 +27,14 @@ The phrase *empty cup* is a powerful business concept that promotes an open and 
 - Promotes better decision making  
 - Fosters continuous learning and growth  
 
-By embracing this mindset, organizations unlock innovation, collaboration, and effectiveness — leading to smarter, more sustainable results.  
+By embracing this mindset, organizations can encourage innovation, collaboration, and effectiveness, leading to smarter, more sustainable results.  
 
 ---
 
 ## 🚀 What We Do  
 
-We specialize in:  
+Our work includes:  
+- **2–4-week assessments** in data governance, AI and workflow modernization, and dimensional modeling
 - **Data Architecture & Engineering**  
 - **Cloud Solutions** (Azure, Snowflake, Databricks, Microsoft Fabric, and more)  
 - **Business Intelligence & Analytics**  
@@ -49,7 +49,7 @@ We believe in giving back to the community, sharing code samples, reusable templ
 
 ![Jason Horner](https://www.gravatar.com/avatar/9d3a57f5aa229964e0c046853e556823 "Jason Horner"){: .align-right}  
 
-Hi, my name is **Jason Horner**, and I am the founder of Empty Cup Consulting. I’m an independent consultant and trainer with a passion for helping clients solve business problems in the data and advanced analytics spaces using cloud technologies.  
+Hi, my name is **Jason Horner**, and I am the founder of Empty Cup Consulting. I’m an independent consultant and trainer with a passion for helping clients solve business problems in data and advanced analytics using cloud technologies.  
 
 I bring expertise in:  
 - Azure Data Factory, Synapse Analytics, Data Lake Store, Databricks, HDInsight, Azure SQL Database  
@@ -72,7 +72,7 @@ I love sharing knowledge and frequently speak at conferences, meetups, and train
 
 ## 📬 Get in Touch  
 
-Always looking for meaningful and interesting work.  
+I'm always interested in meaningful, challenging work. Have a data or AI problem you'd like to discuss? [Schedule an introduction call](https://calendly.com/jjhconsulting/presales-call).  
 
 - 🌐 [emptycupconsulting.com](https://emptycupconsulting.com)  
 - 📧 [hello@emptycupconsulting.com](mailto:hello@emptycupconsulting.com)  

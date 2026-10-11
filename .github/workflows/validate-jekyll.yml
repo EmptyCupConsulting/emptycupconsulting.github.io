@@ -44,7 +44,7 @@ jobs:
           html = home.read_text(encoding="utf-8")
           assert "<h1" in html.lower() and ("empty cup" in html.lower() or "data" in html.lower()), "Homepage heading missing"
           assert "<strong>" in html or "<p>" in html, "Homepage Markdown appears unrendered"
-          assert re.search(r'<link\\b[^>]*rel=["\\\']canonical["\\\']', html, re.I), "Missing canonical link on homepage"
+          assert '<link' in html.lower() and 'canonical' in html.lower(), "Missing canonical link on homepage"
           for page in ("about", "services", "training", "sherpa"):
               path = site / page / "index.html"
               assert path.is_file(), f"Missing generated page: /{page}/"

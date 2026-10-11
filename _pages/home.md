@@ -1,6 +1,7 @@
 ---
 permalink: /home/
 title: "Home"
+canonical_url: https://emptycupconsulting.com/
 classes: wide
 layout: single
 ---

@@ -1,6 +1,7 @@
 ---
 permalink: /sherpa/
-title: "Sherpa Services"
+title: "Sherpa Services: Data & AI Coaching"
+excerpt: "Get practical, one-on-one data and AI architecture advice, troubleshooting, and coaching from an experienced consultant."
 layout: single
 ---
 
@@ -32,8 +33,8 @@ Whether you need **tactical problem-solving** (a specific issue with a tool, wor
 
 Ready to see if Sherpa Services are the right fit for you?  
 
-- Book a free [Sherpa Session Introduction Call](#) to discuss your needs.  
-- Jump straight in and schedule a **90-minute working session**: [Book a Sherpa Session](#)  
+- Book a [Sherpa introduction call](https://calendly.com/jjhconsulting/presales-call) to discuss your needs.  
+- Interested in a **90-minute working session**? [Contact us](mailto:hello@emptycupconsulting.com?subject=Sherpa%20working%20session) to arrange one.  
 
 ---
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emptycupconsulting.com/sitemap.xml

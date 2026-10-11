@@ -1,17 +1,14 @@
 # EmptyCup Consulting — AI Assistant Instructions
 
-## Writing standard
+## Writing standards
 
-For prose written or edited in this repository, follow [Natural Writing Guidelines](docs/standards/natural-writing-guidelines.md).
+For prose written or edited in this repository, follow both:
 
-Apply these guidelines to blog posts, website copy, SEO metadata, proposals, client communications, training materials, and technical documentation. Preserve required formats, code syntax, quoted text, and technical precision.
+- [Natural Writing Guidelines](docs/standards/natural-writing-guidelines.md) for clear, natural writing and editing.
+- [Brand Voice](docs/standards/brand-voice.md) for EmptyCup's philosophy, personality, audience, and marketing approach.
 
-## Brand voice
-
-Write for SMB decision-makers and IT/data leaders in a practical, credible, conversational tone. Prefer concrete examples and useful advice over hype. Occasional dry humor is welcome when appropriate.
-
-For marketing content, connect the message to a real business problem and include a clear, relevant call to action. EmptyCup Consulting focuses on 2–4-week assessments in data governance, AI/workflow modernization, and dimensional modeling, plus onsite training and workshops.
+Apply these standards to blog posts, website copy, SEO metadata, proposals, client communications, training materials, and technical documentation. Adapt tone to the task and preserve required formats, code syntax, quoted text, and technical precision.
 
 ## Editing behavior
 
-Silently review prose against the writing standard before delivering it. Do not mention the review unless asked. Follow task-specific instructions when they require a different voice or structure.
+Silently review prose against both standards before delivering it. Do not mention the review unless asked. Follow task-specific instructions when they require a different voice or structure.

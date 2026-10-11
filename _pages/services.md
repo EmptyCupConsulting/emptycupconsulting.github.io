@@ -5,33 +5,42 @@ layout: single
 permalink: /services/
 ---
 
-# Data & AI Consulting Services  
-
-At **Empty Cup Consulting**, we help IT and data leaders turn complex data and AI challenges into manageable next steps. Start with a focused assessment, a hands-on workshop, or direct help with an existing platform.  
+At **Empty Cup Consulting**, we help IT and data leaders turn complex data and AI challenges into manageable next steps. Start with a focused assessment, a hands-on workshop, or direct help with an existing platform.
 
 ## Focused Assessments (2–4 Weeks)
 
-Get a clear picture of what is working, what is getting in the way, and what to do next. Common assessment areas include **data governance**, **AI and workflow modernization**, and **dimensional modeling**. Deliverables are scoped around your environment and decisions—not a generic slide deck.
+Get a clear picture of what's working, what's getting in the way, and what to do next. Our assessments focus on practical recommendations and a prioritized action plan—not a generic slide deck.
 
-## Focused Assessments
+- **[Data Governance Assessment](/services/data-governance-assessment/):** Evaluate data ownership, quality, business definitions, and governance practices.
+- **AI & Workflow Modernization Assessment:** Identify promising automation opportunities, evaluate readiness, and prioritize next steps. [Discuss your needs](https://calendly.com/jjhconsulting/presales-call).
+- **Dimensional Modeling Assessment:** Review warehouse and semantic-model design, metric consistency, and reporting challenges. [Discuss your needs](https://calendly.com/jjhconsulting/presales-call).
 
-Need clarity before committing to a larger initiative? Our [Data Governance Assessment](/services/data-governance-assessment/) is a scoped 2–4-week engagement focused on ownership, data quality, business definitions, and a prioritized action plan. Additional assessment offerings are in development.
+Each assessment is scoped to your environment and the decisions you need to make. Dedicated pages for the AI/workflow and dimensional modeling assessments are planned.
 
-## Sherpa Services (Coaching & Mentoring)  
-Think of us as your guide on the data and AI trail. We provide one-on-one or team-based coaching to help you build skills, avoid pitfalls, and stay on course with your strategy.  
+## [Sherpa Services: Coaching & Mentoring](/sherpa/)
 
-## Onsite and Remote Training  
-Customized training sessions that give your team the knowledge and confidence to use modern data and AI tools effectively. Hands-on, real-world examples — no fluff.  
+Get direct, practical guidance for a data or AI challenge. Our [Sherpa service](/sherpa/) provides one-on-one or team-based coaching to help you make decisions, troubleshoot problems, and build your team's skills.
 
-## Architecture Design Sessions  
-Collaborative workshops where we align business goals with technical architecture. You’ll leave with a clear roadmap, recommended patterns, and best practices for your specific environment.  
+## [Onsite and Remote Training](/training/)
 
-## Modern Data Jumpstart  
-A focused engagement to move a modern data platform initiative forward with architecture guidance and practical implementation support. We define scope and outcomes before work begins.  
+Help your team put modern data tools and techniques to work. Explore our [training and workshop options](/training/) for hands-on sessions tailored to your goals and technology stack.
+
+## Architecture Design Sessions
+
+Collaborative workshops to align business goals with technical architecture. We review requirements, evaluate tradeoffs, and outline practical next steps for your environment.
+
+[Discuss an architecture workshop](https://calendly.com/jjhconsulting/presales-call).
+
+## Modern Data Jumpstart
+
+A focused engagement to move a modern data platform initiative forward with architecture guidance and implementation support. We agree on scope and outcomes before work begins.
+
+[Discuss a jumpstart engagement](https://calendly.com/jjhconsulting/presales-call).
 
 ---
 
-## Get Started  
-Curious how we can help? Let’s talk.  
+## Get Started
 
-[Schedule an introduction call](https://calendly.com/jjhconsulting/presales-call) to discuss the problem, expected outcomes, and whether a short engagement is the right fit.  
+Tell us what you're trying to accomplish and where you're stuck. We'll help determine whether an assessment, workshop, or targeted consulting engagement is the right next step.
+
+**[Schedule an introduction call](https://calendly.com/jjhconsulting/presales-call).**

@@ -5,8 +5,6 @@ excerpt: "Practical onsite and remote workshops for Microsoft Fabric, Azure, Sno
 layout: single
 ---
 
-# Training  
-
 We deliver **onsite and remote training and workshops** tailored to your team's technology, experience, and business goals. Sessions can focus on a specific platform, an architecture decision, or the skills needed to support a new implementation.  
 
 Training emphasizes practical exercises, real-world tradeoffs, and techniques your team can apply immediately. We agree on learning objectives and prerequisites before the session.  

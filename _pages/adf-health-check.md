@@ -6,8 +6,6 @@ layout: single
 classes: wide
 ---
 
-# Azure Data Factory Operational Health Check
-
 **Know where your data pipelines are at risk—and what to fix first.**
 
 Production pipelines can appear healthy until a delayed load, silent data-quality issue, or failed deployment affects reporting and operations. Empty Cup Consulting's Azure Data Factory Operational Health Check evaluates how your existing ADF environment runs and how your team responds when it doesn't.

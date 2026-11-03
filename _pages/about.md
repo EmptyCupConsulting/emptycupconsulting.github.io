@@ -11,8 +11,6 @@ layout: single
 
 ---
 
-# About Empty Cup Consulting LLC  
-
 **Empty Cup Consulting LLC** is a boutique consulting firm focused on building practical, high-quality solutions to real-world business problems. We bring deep technical expertise and a **no-nonsense, get-it-done attitude**, with fair, transparent rates.  
 
 ---

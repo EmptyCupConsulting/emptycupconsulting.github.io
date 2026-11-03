@@ -6,8 +6,6 @@ layout: single
 classes: wide
 ---
 
-# Data Governance Assessment
-
 **Know where your data governance efforts stand—and what to fix first.**
 
 If your teams disagree about what a metric means, nobody knows who owns a critical dataset, or data quality problems keep resurfacing, buying another tool probably isn't the first step.

@@ -5,8 +5,6 @@ excerpt: "Get practical, one-on-one data and AI architecture advice, troubleshoo
 layout: single
 ---
 
-# Sherpa Services  
-
 Sometimes you just need a trusted guide — someone who’s been there before, can see the trail ahead, and knows how to help you avoid the pitfalls. That’s where **Sherpa Services** come in.  
 
 Whether you need **tactical problem-solving** (a specific issue with a tool, workflow, or platform) or **strategic guidance** (an architecture review, roadmap, or data strategy), Sherpa Services give you direct access to expert support on your terms.  

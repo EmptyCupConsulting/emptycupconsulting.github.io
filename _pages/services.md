@@ -5,8 +5,6 @@ layout: single
 permalink: /services/
 ---
 
-# Data & AI Consulting Services
-
 At **Empty Cup Consulting**, we help IT and data leaders turn complex data and AI challenges into manageable next steps. Start with a focused assessment, a hands-on workshop, or direct help with an existing platform.
 
 ## Focused Assessments (2–4 Weeks)

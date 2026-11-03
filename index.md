@@ -6,8 +6,6 @@ classes: wide
 layout: single
 ---
 
-# Practical Data & AI Consulting  
-
 **Clear answers. Focused engagements. Data solutions your team can maintain.**  
 
 Empty Cup Consulting helps IT and data leaders make progress without committing to a six-month discovery project. Start with a focused 2–4-week assessment in data governance, AI and workflow modernization, or dimensional modeling. Then put the findings to work with practical architecture guidance, implementation support, and team training.  

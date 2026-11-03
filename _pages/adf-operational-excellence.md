@@ -6,8 +6,6 @@ layout: single
 classes: wide
 ---
 
-# Azure Data Factory Operational Excellence
-
 **Reliable pipelines. Clear operational visibility. Fewer surprises in production.**
 
 Azure Data Factory can move data at scale, but running it reliably requires more than successful pipeline executions. Teams need to detect problems, recover safely, validate the data being delivered, manage changes, and understand operational cost.
